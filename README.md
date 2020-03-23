@@ -31,6 +31,9 @@ article: true
 - [Telepot - JavaScript](https://github.com/mullwar/telebot)
 - [Telepot - Python](https://github.com/nickoala/telepot)
 
+* Frameworks / SDK / Wrapper para outras plataformas
+- [Cybot - Whatsapp](http://github.com/francis-taylor/cybot) By [Francis Taylor](http://github.com/francis-taylor/) 
+
 *APIs*
 - [Botan](http://botan.io/)
 - [PWRTelegram API](http://pwrtelegram.xyz/)
